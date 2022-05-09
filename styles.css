@@ -1,0 +1,19 @@
+.obrazi {
+    outline: none;
+  border: none;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: center;
+    padding-bottom: 40px;
+}
+.obrazi img {
+  outline: none;
+  border: none;
+    width: 260px;
+    height: 400px;
+}
+.obrazi a {
+  outline: none;
+  border: none;
+}

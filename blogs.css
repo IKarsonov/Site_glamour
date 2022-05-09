@@ -1,0 +1,36 @@
+main h1 {
+    font-size: 30px;
+    display: flex;
+    width: 50%;
+    text-align: center;
+    padding-left: 320px;
+    font-family: cheque, sans-serif;
+}
+.blogger-wrapper {
+    display: grid;
+    width: 890px;
+    margin-left: 190px;
+    grid-template-columns: auto;
+    grid-template-rows: auto;
+}
+.che {
+    font-size: 30px;
+    font-weight: bold;
+}
+.blogger-wrapper p {
+    text-align: left;
+}
+.blogger-title {
+    padding-top: 30px;
+}
+.blogger-title a {
+    font-family: Calligraphy, sans-serif;
+    text-decoration: none;
+    color: black;
+    font-size: 50px;
+    letter-spacing: 3px;
+    font-weight: bold;
+}
+.opisanie {
+    padding-bottom: 50px;
+}
